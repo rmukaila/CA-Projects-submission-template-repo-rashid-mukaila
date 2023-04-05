@@ -1,3 +1,3 @@
 # Article
 
-Please host the drafts and all the materials, including the final version, related to your article in this folder.
+This folder contains all the materials related to the project's published article on medium

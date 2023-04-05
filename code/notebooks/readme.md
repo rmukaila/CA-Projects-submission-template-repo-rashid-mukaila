@@ -1,3 +1,3 @@
 # Notebooks
 
-Please host your standalone notebook in this folder.
+This folder contains the final version of the master noteboob scripts used in the project
